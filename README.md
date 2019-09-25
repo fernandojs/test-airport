@@ -23,7 +23,10 @@ This project has tools, good practices and patterns to increase the quality of y
   - Good use of decorators for better recognizing
 - MOQ
   - Use of Verify Assertion
-  
+
+## How to test:
+  - Run the API project and call like the example below:
+    - /api/airport/AMS/CWB
 
 ## Future:
   - Redis
