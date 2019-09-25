@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AirportDistanceForTest.Domain\AirportDistanceForTest.Domain.csproj" />
+    <ProjectReference Include="..\AirportDistanceForTest.Infra.Data\AirportDistanceForTest.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>
